@@ -1,0 +1,17 @@
+commit 42c5a6b1706d3386e93ae1161a497db37dcd3f1a
+Author: TripsLaMenace <arsene.tripard@hec.edu>
+Date:   Wed Jan 26 09:27:28 2022 +0100
+
+    add gitignore file
+
+commit 21c6c77cd9af1d7ef78039eae26e8a1767c13985
+Author: TripsLaMenace <arsene.tripard@hec.edu>
+Date:   Wed Jan 26 09:09:32 2022 +0100
+
+    added two files
+
+commit 417a9c224147319e9a902e25b55937946aceca6a
+Author: TripsLaMenace <arsene.tripard@hec.edu>
+Date:   Wed Jan 26 09:03:34 2022 +0100
+
+    Added readme file
